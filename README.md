@@ -1,6 +1,6 @@
 
 ## Hi there 👋 I'm Humeyra...:wave:
-- :telescope: I’m currently working on Data Scientist
+- :telescope: I’m currently working on Data Science
 - :seedling: I’m currently learning Data Science tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 
